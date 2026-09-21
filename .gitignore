@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+obamify_gen_*.png
+.ipynb_checkpoints/
