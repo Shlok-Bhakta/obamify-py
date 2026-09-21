@@ -99,7 +99,7 @@ gathers, ~6x faster than the naive scalar loop.
 - [`Spu7Nix/obamify`](https://github.com/Spu7Nix/obamify) — the original
   Rust implementation and algorithm. All credit for the core idea and the
   bundled Obama target/weights assets goes there.
-- Chris Pratt — moral support
+- Chris (chrisis147) — instigation, testing, and moral support
 - Example crab photo: Hans Hillewaert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
 - The 3-hour debugging session that found a double-permutation render bug
   was brought to you by a Discord bet
